@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 300px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+}
